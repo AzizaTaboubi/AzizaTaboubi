@@ -18,9 +18,8 @@ Dart, Flutter, Swift, Php, Oracle, MySQL, NodeJS, XML, Python ...
 
 
 ## 🔗 Links
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.facebook.com/azyza.azza.3/)
+[![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/azyza.azza.3/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziza-taboubi/
 )
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azyza_tabouby)
-
 
