@@ -1,5 +1,6 @@
 
-# Hi, I'm Aziza Taboubi! 👋
+
+![Group 1](https://github.com/AzizaTaboubi/AzizaTaboubi/assets/98782523/13a50662-45ba-4545-a115-c6c5131153cf)
 
 
 ## 🚀 About Me
