@@ -12,7 +12,7 @@
 I'm a Computer Science Engineer student at Esprit in Tunisia. I'm 24 years old and i'm passionate about the world of developing and coding.
 
 
-- 🔭 I’m currently studying computer engineering in ESPRIT, Tunisia.  
+- 🔭 I’m currently studying computer engineering at ESPRIT, Tunisia.  
   
 
 - 🌱 I’m currently learning how to create mobile apps with unity  
