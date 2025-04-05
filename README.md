@@ -9,13 +9,13 @@
 ### <div align="center">I'm Aziza Taboubi a mobile developer 👨‍💻 🚀</div>  
 
 ## 🚀 About Me
-I'm a Computer Science Engineer student at Esprit in Tunisia. I'm 24 years old and i'm passionate about the world of developing and coding.
+I'm a freshly graduated Computer Science Engineer currently based in Tunisia. I'm 26 years old and i'm passionate about the world of developing and coding.
 
 
-- 🔭 I’m currently studying computer engineering at ESPRIT, Tunisia.  
+- 🔭 I stduied computer engineering at ESPRIT, Tunisia.  
   
 
-- 🌱 I’m currently learning how to create mobile apps with unity  
+- 🌱 I’m currently learning NextJS  
   
 
 - ❓ Ask me about anything related to mobile developement  
